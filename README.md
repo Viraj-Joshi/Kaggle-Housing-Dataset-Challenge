@@ -1,2 +1,5 @@
 # Kaggle-Housing-Dataset-Challenge
-Predict SalePrice of houses
+
+This is for the UT MLDS club semester long-competition. 
+
+I learned how to impute missing data, determine outliers, and ensemble multiple ML models(GLM,GBM,DRF,XGBoost, LightGBM, Deep Learning).
